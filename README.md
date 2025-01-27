@@ -1,1 +1,2 @@
-# 2025-01-27-learning-about-version-control
+# learning-about-version-control
+Author: Yuwen Luo
